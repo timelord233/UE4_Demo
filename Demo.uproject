@@ -1,13 +1,16 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "{7AE97149-4791-6271-3379-CC8D0662AF12}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
 		{
 			"Name": "Demo",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }
