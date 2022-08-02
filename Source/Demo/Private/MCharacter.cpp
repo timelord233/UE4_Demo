@@ -4,6 +4,7 @@
 #include "MCharacter.h"
 #include "Camera/CameraComponent.h"
 #include "GameFramework/SpringArmComponent.h"
+#include "GameFramework/PawnMovementComponent.h"
 
 // Sets default values
 AMCharacter::AMCharacter()
@@ -14,6 +15,8 @@ AMCharacter::AMCharacter()
 	SpringArmComp = CreateDefaultSubobject<USpringArmComponent>(TEXT("SpringArmComp"));
 	SpringArmComp->bUsePawnControlRotation = true;
 	SpringArmComp->SetupAttachment(RootComponent);
+
+	GetMovementComponent()->GetNavAgentPropertiesRef().bCanCrouch = true;
 
 	CameraComp = CreateDefaultSubobject<UCameraComponent>(TEXT("CameraComp"));
 	CameraComp->SetupAttachment(SpringArmComp);
@@ -38,12 +41,12 @@ void AMCharacter::MoveRight(float Value)
 
 void AMCharacter::BeginCrouch()
 {
-
+	Crouch();
 }
 
 void AMCharacter::EndCrouch()
 {
-
+	UnCrouch();
 }
 
 // Called every frame
@@ -63,5 +66,8 @@ void AMCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponen
 
 	PlayerInputComponent->BindAxis("LookUp", this, &AMCharacter::AddControllerPitchInput);
 	PlayerInputComponent->BindAxis("Turn", this, &AMCharacter::AddControllerYawInput);
+
+	PlayerInputComponent->BindAction("Crouch", IE_Pressed, this, &AMCharacter::BeginCrouch);
+	PlayerInputComponent->BindAction("Crouch", IE_Released, this, &AMCharacter::EndCrouch);
 }
 
