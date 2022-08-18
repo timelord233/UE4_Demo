@@ -1,0 +1,1930 @@
+﻿Log file open, 08/16/22 21:39:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Demo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177503
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-0
+LogInit: Engine Version: 4.27.2-0+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-0+++UE4+Release-4.27
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Jul 31 2022 17:41:22
+LogInit: Compiled with Visual C++: 19.28.29337.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UnrealEngine-4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4_Demo/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UE4_Demo/Saved/Config/Windows/Engine.ini]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UE4_Demo/Saved/Config/Windows/Engine.ini]
+[2022.08.16-13.39.56:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4_Demo/Saved/Config/Windows/Engine.ini]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UE4_Demo/Saved/Config/Windows/Engine.ini]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.08.16-13.39.56:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UE4_Demo/Saved/Config/Windows/Engine.ini]
+[2022.08.16-13.39.56:284][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UE4_Demo/Saved/Config/Windows/Engine.ini]
+[2022.08.16-13.39.56:293][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.16-13.39.56:293][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.16-13.39.56:294][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.16-13.39.56:294][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.08.16-13.39.56:294][  0]LogHAL: Display: Platform has ~ 32 GB [34282545152 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.16-13.39.56:294][  0]LogInit: Going up to parent DeviceProfile []
+[2022.08.16-13.39.56:294][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.16-13.39.56:294][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4_Demo/Saved/Config/Windows/Scalability.ini]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.08.16-13.39.56:295][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4_Demo/Saved/Config/Windows/Engine.ini]
+[2022.08.16-13.39.56:295][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4_Demo/Saved/Config/Windows/Editor.ini]
+[2022.08.16-13.39.56:295][  0]LogInit: Computer: DESKTOP-9RD24KH
+[2022.08.16-13.39.56:295][  0]LogInit: User: Timelord
+[2022.08.16-13.39.56:295][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.08.16-13.39.56:295][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.16-13.39.56:295][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.08.16-13.39.56:295][  0]LogMemory: Platform Memory Stats for Windows
+[2022.08.16-13.39.56:295][  0]LogMemory: Process Physical Memory: 138.05 MB used, 138.05 MB peak
+[2022.08.16-13.39.56:295][  0]LogMemory: Process Virtual Memory: 118.64 MB used, 118.64 MB peak
+[2022.08.16-13.39.56:295][  0]LogMemory: Physical Memory: 13499.02 MB used,  19195.36 MB free, 32694.38 MB total
+[2022.08.16-13.39.56:295][  0]LogMemory: Virtual Memory: 134204256.00 MB used,  13470.21 MB free, 134217728.00 MB total
+[2022.08.16-13.39.56:300][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.16-13.39.56:488][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.08.16-13.39.56:489][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.08.16-13.39.56:489][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.08.16-13.39.56:678][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.16-13.39.56:699][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.08.16-13.39.56:746][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.16-13.39.56:746][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.16-13.39.58:315][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.08.16-13.39.58:317][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.08.16-13.39.58:317][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.08.16-13.39.58:317][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.08.16-13.39.58:317][  0]LogD3D11RHI: D3D11 adapters:
+[2022.08.16-13.39.58:394][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2022.08.16-13.39.58:394][  0]LogD3D11RHI:       8043/0/16347 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.08.16-13.39.58:395][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.08.16-13.39.58:395][  0]LogD3D11RHI:       0/0/16347 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.08.16-13.39.58:455][  0]LogD3D11RHI:    2. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2022.08.16-13.39.58:455][  0]LogD3D11RHI:       8043/0/16347 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2022.08.16-13.39.58:455][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.08.16-13.39.58:455][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2022.08.16-13.39.58:455][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.08.16-13.39.58:455][  0]LogD3D11RHI:     DeviceId    : 2484
+[2022.08.16-13.39.58:455][  0]LogD3D11RHI:     SubSysId    : 20007377
+[2022.08.16-13.39.58:455][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.08.16-13.39.58:455][  0]LogD3D11RHI:     DedicatedVideoMemory : 8433696768 bytes
+[2022.08.16-13.39.58:455][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.08.16-13.39.58:455][  0]LogD3D11RHI:     SharedSystemMemory : 17141272576 bytes
+[2022.08.16-13.39.58:455][  0]LogD3D11RHI:     AdapterLuid : 0 44632
+[2022.08.16-13.39.58:462][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.08.16-13.39.58:462][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.16-13.39.58:462][  0]LogWindows: EnumDisplayDevices:
+[2022.08.16-13.39.58:462][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2022.08.16-13.39.58:462][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:1)
+[2022.08.16-13.39.58:462][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.08.16-13.39.58:462][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.08.16-13.39.58:462][  0]LogWindows:    4. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:463][  0]LogWindows:    5. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:463][  0]LogWindows:    6. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:463][  0]LogWindows:    7. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:463][  0]LogWindows:    8. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:463][  0]LogWindows:    9. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:463][  0]LogWindows:    10. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:463][  0]LogWindows:    11. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:463][  0]LogWindows:    12. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:464][  0]LogWindows:    13. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:464][  0]LogWindows:    14. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:464][  0]LogWindows:    15. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:464][  0]LogWindows:    16. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:464][  0]LogWindows:    17. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:464][  0]LogWindows:    18. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:464][  0]LogWindows:    19. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.08.16-13.39.58:465][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.08.16-13.39.58:465][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2022.08.16-13.39.58:465][  0]LogD3D11RHI:   Driver Version: 471.11 (internal:30.0.14.7111, unified:471.11)
+[2022.08.16-13.39.58:465][  0]LogD3D11RHI:      Driver Date: 6-21-2021
+[2022.08.16-13.39.58:465][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2022.08.16-13.39.58:465][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.08.16-13.39.58:465][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2022.08.16-13.39.58:465][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.08.16-13.39.58:465][  0]LogD3D11RHI:     DeviceId    : 2484
+[2022.08.16-13.39.58:465][  0]LogD3D11RHI:     SubSysId    : 20007377
+[2022.08.16-13.39.58:465][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.08.16-13.39.58:465][  0]LogD3D11RHI:     DedicatedVideoMemory : 8433696768 bytes
+[2022.08.16-13.39.58:465][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.08.16-13.39.58:465][  0]LogD3D11RHI:     SharedSystemMemory : 17141272576 bytes
+[2022.08.16-13.39.58:465][  0]LogD3D11RHI:     AdapterLuid : 0 44632
+[2022.08.16-13.39.58:518][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.08.16-13.39.58:518][  0]LogD3D11RHI: Async texture creation enabled
+[2022.08.16-13.39.58:518][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.08.16-13.39.58:544][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.08.16-13.39.58:618][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.08.16-13.39.59:109][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.08.16-13.39.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.16-13.39.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.16-13.39.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.16-13.39.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.16-13.39.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.16-13.39.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.16-13.39.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.16-13.39.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.16-13.39.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.16-13.39.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.16-13.39.59:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.16-13.39.59:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.16-13.39.59:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.08.16-13.39.59:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.08.16-13.39.59:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.08.16-13.39.59:274][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.08.16-13.39.59:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.08.16-13.39.59:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.08.16-13.39.59:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.16-13.39.59:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.16-13.39.59:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.08.16-13.39.59:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.16-13.39.59:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.16-13.39.59:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.16-13.39.59:389][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.08.16-13.39.59:449][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.16-13.39.59:611][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.08.16-13.39.59:755][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.16-13.39.59:755][  0]LogShaderCompilers: Guid format shader working directory is 37 characters bigger than the processId version (E:/UE4_Demo/Intermediate/Shaders/WorkingDirectory/31336/).
+[2022.08.16-13.39.59:756][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Timelord/AppData/Local/Temp/UnrealShaderWorkingDir/0910192E48303EF588FC4D8697AEFF5F/'.
+[2022.08.16-13.39.59:756][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.16-13.39.59:756][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.08.16-13.39.59:756][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.08.16-13.40.01:539][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.08.16-13.40.01:585][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB E:/UE4_Demo/DerivedDataCache/Boot.ddc.
+[2022.08.16-13.40.01:586][  0]LogDerivedDataCache: Display: Loaded Boot cache: E:/UE4_Demo/DerivedDataCache/Boot.ddc
+[2022.08.16-13.40.01:586][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/UE4_Demo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.16-13.40.01:586][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.08.16-13.40.01:586][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.16-13.40.01:586][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2022.08.16-13.40.01:632][  0]LogDerivedDataCache: Speed tests for ../../../Engine/DerivedDataCache took 0.05 seconds
+[2022.08.16-13.40.01:632][  0]LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=21.17MBs, RandomWriteSpeed=293.01MBs. Assigned SpeedClass 'Local'
+[2022.08.16-13.40.01:633][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2022.08.16-13.40.01:633][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.16-13.40.01:633][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.08.16-13.40.01:670][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.16-13.40.01:680][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.16-13.40.01:773][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2022.08.16-13.40.01:946][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.16-13.40.01:946][  0]LogInit: Active device profile: [00000198C97FBD00][00000198CA175AC0 49] Windows
+[2022.08.16-13.40.01:946][  0]LogInit: Profiles: [00000198C97FBD00][00000198CA175AC0 49] Windows, [00000198C9807B00][00000198CA179C00 49] WindowsNoEditor, [00000198C97F8700][00000198BF4701C0 49] WindowsServer, [00000198C9804600][00000198CA17C300 49] WindowsClient, [00000198C97FBB00][00000198C9E6A480 49] IOS, [00000198C9804100][00000198C9E6E600 49] iPadAir, [00000198C97F8500][00000198C9EAC780 49] iPadAir2, [00000198C97B9000][00000198C9EB4A40 49] IPadPro, [00000198C97B9100][00000198C9EB0A80 49] iPadAir3, [00000198C97FB900][00000198C9EB8C00 49] iPadAir4, [00000198C97B8900][00000198C6842D80 49] iPadMini2, [00000198C97F8400][00000198C6846F00 49] iPadMini3, [00000198C97B9700][00000198C684B080 49] iPadMini4, [00000198C97FB800][00000198C684F200 49] iPadMini5, [00000198C9805100][00000198C68574C0 49] iPhone6, [00000198C9805200][00000198C6853500 49] iPodTouch6, [00000198C97BB900][00000198C685F7C0 49] iPhone7, [00000198C97BB800][00000198C685B800 49] iPodTouch7, [00000198C9804B00][00000198C6863980 49] iPhone5S, [00000198C97BBD00][00000198C6867B00 49] iPhone6Plus, [00000198C9807100][00000198C686A100 49] iPhone6S, [00000198C97B9C00][00000198C9E66240 49] iPhone6SPlus, [00000198C9805000][00000198CA590380 49] iPhone7Plus, [00000198C97B8500][00000198CA5A04C0 49] iPhoneSE, [00000198C9805B00][00000198CA5A8640 49] iPhone8, [00000198C97BB000][00000198CA5AC7C0 49] iPhone8Plus, [00000198C9807D00][00000198CA13E940 49] iPhoneX, [00000198C97B9300][00000198CA14CAC0 49] iPhoneXS, [00000198C9805E00][00000198CA168C40 49] iPhoneXSMax, [00000198C97BAD00][00000198CA16CDC0 49] iPhoneXR, [00000198C9807C00][00000198CA612F40 49] iPhone11, [00000198C97B9500][00000198CA6170C0 49] iPhone11Pro, [00000198C9806200][00000198CA61B240 49] iPhone11ProMax, [00000198C97BA900][00000198CA7A33C0 49] iPhoneSE2, [00000198C9807300][00000198CA401540 49] iPhone12Mini, [00000198C97B9B00][00000198CA4056C0 49] iPhone12, [00000198C9806500][00000198CA41D880 49] iPhone12Pro, [00000198C97B8600][00000198CA421A00 49] iPhone12ProMax, [00000198C9805900][00000198CA42DB80 49] iPadPro105, [00000198C97B9E00][00000198CA430180 49] iPadPro129, [00000198C9804300][00000198CA434300 49] iPadPro97, [00000198C97B8F00][00000198CA5A4440 49] iPadPro2_129, [00000198C9806A00][00000198CA438580 49] iPad5, [00000198C97BB500][00000198CA4406C0 49] iPad6, [00000198C9804E00][00000198CA448840 49] iPad7, [00000198C97B8300][00000198CA4509C0 49] iPad8, [00000198C9806000][00000198CA454B40 49] iPadPro11, [00000198C97BA200][00000198CA458CC0 49] iPadPro2_11, [00000198C9807400][00000198CA45CE40 49] iPadPro3_129, [00000198C97B9F00][00000198CA460FC0 49] iPadPro4_129, [00000198C9804800][00000198CA465140 49] AppleTV, [00000198C97BA800][00000198CA4752C0 49] AppleTV4K, [00000198C9805A00][00000198CA4F9440 49] TVOS, [00000198C97B9800][00000198CA4FD5C0 49] Mac, [00000198C9807200][00000198CA501740 49] MacClient, [00000198C97BB700][00000198CA90D8C0 49] MacNoEditor, [00000198C9804900][00000198CA911A40 49] MacServer, [00000198C97B8A00][00000198CA915BC0 49] Linux, [00000198C9805300][00000198C686E1C0 49] LinuxAArch64, [00000198C97BA600][00000198BF468340 49] LinuxNoEditor, [00000198C9804F00][00000198BF46C4C0 49] LinuxAArch64NoEditor, [00000198C97B9200][00000198CA444600 49] LinuxClient, [00000198C9807700][00000198CA44C740 49] LinuxAArch64Client, [00000198C97B9D00][00000198CA43C880 49] LinuxServer, [00000198C9806600][00000198CA48E9C0 49] LinuxAArch64Server, [00000198C97BA300][00000198CA496B40 49] Android, [00000198C9805F00][00000198CA49ACC0 49] Android_Low, [00000198C97B9A00][00000198CA49EE40 49] Android_Mid, [00000198C9805800][00000198CA4A2FC0 49] Android_High, [00000198C97F8800][00000198CA4A7140 49] Android_Default, [00000198C9C71800][00000198CA4AB2C0 49] Android_Adreno4xx, [00000198C97F8D00][00000198CA4AF440 49] Android_Adreno5xx_Low, [00000198C9C71300][00000198CA4B35C0 49] Android_Adreno5xx, [00000198C97F9700][00000198CA4B7740 49] Android_Adreno6xx, [00000198C9C72600][00000198CA4BB8C0 49] Android_Adreno6xx_Vulkan, [00000198C97FAC00][00000198CA4BFA40 49] Android_Mali_T6xx, [00000198C9C71A00][00000198CA4C3BC0 49] Android_Mali_T7xx, [00000198C97FB100][00000198CA4C61C0 49] Android_Mali_T8xx, [00000198C9C70B00][00000198CA4CA340 49] Android_Mali_G71, [00000198C97F8C00][00000198CA4CE4C0 49] Android_Mali_G72, [00000198C9C71D00][00000198CA4D2640 49] Android_Mali_G72_Vulkan, [00000198C97F8B00][00000198CA492780 49] Android_Mali_G76, [00000198C9C70D00][00000198CA4D68C0 49] Android_Mali_G76_Vulkan, [00000198C97F8600][00000198CA4DAA00 49] Android_Mali_G77, [00000198C9C71900][00000198CA4DEB40 49] Android_Mali_G77_Vulkan, [00000198C97FAF00][00000198CA4E6CC0 49] Android_Mali_G78, [00000198C9C72B00][00000198CA4EAE40 49] Android_Mali_G78_Vulkan, [00000198C97FA100][00000198CA4EEFC0 49] Android_Mali_G710, [00000198C9C70C00][00000198CA4F3140 49] Android_Mali_G710_Vulkan, [00000198C97F9F00][00000198CA9192C0 49] Android_Vulkan_SM5, [00000198C9C72700][00000198CA91D440 49] Android_PowerVR_G6xxx, [00000198C9804400][00000198CA9215C0 49] Android_PowerVR_GT7xxx, [00000198C97BB100][00000198CA925740 49] Android_PowerVR_GE8xxx, [00000198C9C70A00][00000198CA9298C0 49] Android_PowerVR_GM9xxx, [00000198C97B9900][00000198CA92DA40 49] Android_PowerVR_GM9xxx_Vulkan, [00000198C9C70100][00000198CA931BC0 49] Android_TegraK1, [00000198C97BBE00][00000198CA9341C0 49] Android_Unknown_Vulkan, [00000198C9C72000][00000198CA938340 49] Lumin, [00000198C97B8B00][00000198CA93C4C0 49] Lumin_Desktop, [00000198C9C71B00][00000198CA940640 49] HoloLens, 
+[2022.08.16-13.40.02:281][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.16-13.40.02:281][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.16-13.40.02:281][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.16-13.40.02:281][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.16-13.40.02:281][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.16-13.40.02:326][  0]LogNetVersion: Demo 1.0.0, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 888495860)
+[2022.08.16-13.40.03:763][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.08.16-13.40.03:853][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.08.16-13.40.03:858][  0]LogUObjectArray: 17164 objects as part of root set at end of initial load.
+[2022.08.16-13.40.03:858][  0]LogUObjectAllocator: 4298528 out of 0 bytes used by permanent object pool.
+[2022.08.16-13.40.03:858][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.16-13.40.04:941][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 734AAF6347637EAF245FCE88DB46692A | Instance: ED35C6EC422E088E1D57D0953A06F762 (DESKTOP-9RD24KH-31336).
+[2022.08.16-13.40.05:396][  0]LogPython: Using Python 3.7.7
+[2022.08.16-13.40.05:973][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.16-13.40.06:008][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.16-13.40.06:159][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.08.16-13.40.06:509][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.350 s
+[2022.08.16-13.40.06:509][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2022.08.16-13.40.06:509][  0]LogOutputDevice: Error: 
+[2022.08.16-13.40.06:509][  0]LogOutputDevice: Error: Ensure condition failed: !NeedsInitialization() [File:D:/UnrealEngine-4.27/Engine/Source/Runtime/Engine/Private/Components/ActorComponent.cpp] [Line: 1924]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: SetIsReplicatedByDefault is preferred during Component Construction.
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: Stack: 
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffad5092069 UE4Editor-Engine.dll!DispatchCheckVerify<bool,<lambda_e0c13e34bb0445226aa7ad91e59461fe> >() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffad3a560dd UE4Editor-Engine.dll!UActorComponent::SetIsReplicated() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Engine\Private\Components\ActorComponent.cpp:1924]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffabc692d8a UE4Editor-Demo-5884.dll!UMHealthComponent::UMHealthComponent() [E:\UE4_Demo\Source\Demo\Private\Components\MHealthComponent.cpp:12]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffadb295e53 UE4Editor-CoreUObject.dll!UClass::CreateDefaultObject() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:3791]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffadb574015 UE4Editor-CoreUObject.dll!FObjectInitializer::CreateDefaultSubobject() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:3815]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffadb44ec0f UE4Editor-CoreUObject.dll!UObject::CreateDefaultSubobject() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Obj.cpp:116]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffabc694a5a UE4Editor-Demo-5884.dll!AMCharacter::AMCharacter() [E:\UE4_Demo\Source\Demo\Private\MCharacter.cpp:28]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffadb295e53 UE4Editor-CoreUObject.dll!UClass::CreateDefaultObject() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:3791]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffadb5b6bfe UE4Editor-CoreUObject.dll!UObjectLoadAllCompiledInDefaultProperties() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectBase.cpp:911]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffadb5937a1 UE4Editor-CoreUObject.dll!ProcessNewlyLoadedUObjects() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectBase.cpp:1003]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffadb45c7f5 UE4Editor-CoreUObject.dll!TBaseStaticDelegateInstance<void __cdecl(FName,bool),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:731]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffada673a0a UE4Editor-Core.dll!TMulticastDelegate<void __cdecl(FName,bool),FDefaultDelegateUserPolicy>::Broadcast() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates\DelegateSignatureImpl.inl:955]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffada69564f UE4Editor-Core.dll!FModuleManager::LoadModuleWithFailureReason() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Private\Modules\ModuleManager.cpp:519]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb518661e3 UE4Editor-Projects.dll!FModuleDescriptor::LoadModulesForPhase() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Projects\Private\ModuleDescriptor.cpp:643]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb518664ee UE4Editor-Projects.dll!FProjectManager::LoadModulesForProject() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Projects\Private\ProjectManager.cpp:62]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ff77e0f5142 UE4Editor.exe!FEngineLoop::LoadStartupModules() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:3880]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ff77e0f8a3a UE4Editor.exe!FEngineLoop::PreInitPostStartupScreen() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:3263]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ff77e0f083d UE4Editor.exe!GuardedMain() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Launch.cpp:132]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ff77e0f0bca UE4Editor.exe!GuardedMainWrapper() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ff77e0f3bed UE4Editor.exe!LaunchWindowsStartup() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:273]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ff77e1052c4 UE4Editor.exe!WinMain() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:320]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ff77e107e6a UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\63\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb85cd244d KERNEL32.DLL!UnknownFunction []
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb863cdf78 ntdll.dll!UnknownFunction []
+[2022.08.16-13.40.06:510][  0]LogOutputDevice: Error: 
+[2022.08.16-13.40.06:519][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2022.08.16-13.40.06:688][  0]LogStats:                    SendNewReport -  0.169 s
+[2022.08.16-13.40.06:688][  0]LogStats:             FDebug::EnsureFailed -  0.528 s
+[2022.08.16-13.40.06:688][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__MWeapon. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2022.08.16-13.40.07:823][  0]SourceControl: Source control is disabled
+[2022.08.16-13.40.07:823][  0]SourceControl: Source control is disabled
+[2022.08.16-13.40.07:886][  0]SourceControl: Source control is disabled
+[2022.08.16-13.40.07:938][  0]SourceControl: Source control is disabled
+[2022.08.16-13.40.07:976][  0]SourceControl: Source control is disabled
+[2022.08.16-13.40.08:005][  0]LogUProjectInfo: Found projects:
+[2022.08.16-13.40.08:033][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.16-13.40.08:251][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.16-13.40.08:343][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.16-13.40.08:343][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.16-13.40.08:812][  0]LogCollectionManager: Loaded 0 collections in 0.002006 seconds
+[2022.08.16-13.40.08:884][  0]LogFileCache: Scanning file cache for directory 'E:/UE4_Demo/Saved/Collections/' took 0.00s
+[2022.08.16-13.40.08:884][  0]LogFileCache: Scanning file cache for directory 'E:/UE4_Demo/Content/Developers/Timelord/Collections/' took 0.00s
+[2022.08.16-13.40.08:884][  0]LogFileCache: Scanning file cache for directory 'E:/UE4_Demo/Content/Collections/' took 0.00s
+[2022.08.16-13.40.08:884][  0]LogOcInput: OculusInput pre-init called
+[2022.08.16-13.40.09:209][  0]LogClass: Display: ByteProperty FHitScanTrace::SurfaceType is not initialized properly. Module:Demo File:Public/MWeapon.h
+[2022.08.16-13.40.09:209][  0]LogClass: Display: 1 Uninitialized script struct members found including 0 object properties
+[2022.08.16-13.40.09:209][  0]LogEngine: Initializing Engine...
+[2022.08.16-13.40.09:245][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.08.16-13.40.09:245][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.08.16-13.40.09:245][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.08.16-13.40.09:246][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.16-13.40.09:475][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.16-13.40.09:496][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.16-13.40.09:496][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.16-13.40.09:513][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.16-13.40.09:516][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.16-13.40.09:516][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.16-13.40.09:516][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.16-13.40.09:516][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-13.40.09:516][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-13.40.09:516][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-13.40.09:516][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-13.40.09:516][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-13.40.09:516][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-13.40.09:516][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-13.40.09:516][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-13.40.09:517][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-13.40.09:517][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-13.40.09:517][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-13.40.09:517][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-13.40.09:524][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-13.40.09:524][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-13.40.09:564][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (JBL PS3300)
+[2022.08.16-13.40.09:564][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-13.40.09:579][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-13.40.09:579][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-13.40.09:580][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-13.40.09:580][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-13.40.09:580][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-13.40.09:580][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-13.40.09:580][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-13.40.09:580][  0]LogInit: FAudioDevice initialized.
+[2022.08.16-13.40.09:581][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.16-13.40.09:581][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.16-13.40.09:622][  0]LogDerivedDataCache: Saved boot cache 0.04s 94MB E:/UE4_Demo/DerivedDataCache/Boot.ddc.
+[2022.08.16-13.40.09:622][  0]LogInit: Texture streaming: Enabled
+[2022.08.16-13.40.09:667][  0]LogAnalytics: Display: [UEEditor.UnrealEngine.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-0+++UE4+Release-4.27
+[2022.08.16-13.40.09:680][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.16-13.40.09:680][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.08.16-13.40.09:683][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.08.16-13.40.09:732][  0]LogInit: Transaction tracking system initialized
+[2022.08.16-13.40.09:829][  0]BlueprintLog: New page: Editor Load
+[2022.08.16-13.40.10:087][  0]LocalizationService: Localization service is disabled
+[2022.08.16-13.40.10:197][  0]TimingProfiler: Initialize
+[2022.08.16-13.40.10:197][  0]TimingProfiler: OnSessionChanged
+[2022.08.16-13.40.10:197][  0]LoadingProfiler: Initialize
+[2022.08.16-13.40.10:197][  0]LoadingProfiler: OnSessionChanged
+[2022.08.16-13.40.10:197][  0]NetworkingProfiler: Initialize
+[2022.08.16-13.40.10:197][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.16-13.40.10:197][  0]MemoryProfiler: Initialize
+[2022.08.16-13.40.10:197][  0]MemoryProfiler: OnSessionChanged
+[2022.08.16-13.40.10:715][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.08.16-13.40.10:715][  0]LogCook: Display: Mobile HDR setting 1
+[2022.08.16-13.40.11:458][  0]LogFileCache: Scanning file cache for directory 'E:/UE4_Demo/Content/' took 0.00s
+[2022.08.16-13.40.11:610][  0]LogModuleManager: Warning: ModuleManager: Unable to load module 'SequenceRecorderSections'  - 0 instances of that module name found.
+[2022.08.16-13.40.11:610][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.16-13.40.11:612][  0]SourceControl: Source control is disabled
+[2022.08.16-13.40.11:612][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.263
+[2022.08.16-13.40.11:612][  0]Cmd: MAP LOAD FILE="E:/UE4_Demo/Content/Maps/P_TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.16-13.40.11:613][  0]LightingResults: New page: Lighting Build
+[2022.08.16-13.40.11:614][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-13.40.11:614][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-13.40.11:614][  0]MapCheck: New page: Map Check
+[2022.08.16-13.40.11:614][  0]LightingResults: New page: Lighting Build
+[2022.08.16-13.40.11:620][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.16-13.40.11:622][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.08.16-13.40.11:824][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__BP_Rifle_C. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2022.08.16-13.40.11:824][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__SKEL_BP_Rifle_C. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2022.08.16-13.40.12:211][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'P_TestMap'.
+[2022.08.16-13.40.12:212][  0]LogAIModule: Creating AISystem for world P_TestMap
+[2022.08.16-13.40.12:222][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.16-13.40.12:229][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.08.16-13.40.12:229][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.16-13.40.12:230][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.058ms to complete.
+[2022.08.16-13.40.12:230][  0]LogFileHelpers: Loading map 'P_TestMap' took 0.617
+[2022.08.16-13.40.12:231][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.881
+[2022.08.16-13.40.12:384][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-13.40.12:389][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-13.40.12:393][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-13.40.12:398][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-13.40.12:411][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0074 seconds. Added 3824 classes and 928 folders.
+[2022.08.16-13.40.12:412][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.08.16-13.40.12:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:439][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.08.16-13.40.12:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.08.16-13.40.12:454][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:454][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.08.16-13.40.12:454][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.08.16-13.40.12:458][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:458][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.08.16-13.40.12:458][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.08.16-13.40.12:460][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:460][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/StarterContent.upack)
+[2022.08.16-13.40.12:460][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.08.16-13.40.12:463][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:463][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.08.16-13.40.12:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.08.16-13.40.12:466][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:466][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.08.16-13.40.12:466][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.08.16-13.40.12:470][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:470][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_Flying.upack)
+[2022.08.16-13.40.12:470][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.08.16-13.40.12:473][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:473][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.08.16-13.40.12:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.08.16-13.40.12:476][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:476][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.08.16-13.40.12:476][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.08.16-13.40.12:479][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:479][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.08.16-13.40.12:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.08.16-13.40.12:482][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:482][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_Rolling.upack)
+[2022.08.16-13.40.12:482][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.08.16-13.40.12:485][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:485][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.08.16-13.40.12:485][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.08.16-13.40.12:488][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:488][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.08.16-13.40.12:488][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.08.16-13.40.12:490][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:490][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.08.16-13.40.12:490][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.08.16-13.40.12:493][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:493][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.08.16-13.40.12:493][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.08.16-13.40.12:496][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:496][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.08.16-13.40.12:496][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.08.16-13.40.12:500][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:500][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_TopDown.upack)
+[2022.08.16-13.40.12:500][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.08.16-13.40.12:504][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:504][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.08.16-13.40.12:504][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.08.16-13.40.12:507][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:507][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.08.16-13.40.12:507][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.08.16-13.40.12:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.08.16-13.40.12:509][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.08.16-13.40.12:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.08.16-13.40.12:513][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.08.16-13.40.12:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.08.16-13.40.12:516][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.08.16-13.40.12:519][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:519][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.08.16-13.40.12:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.08.16-13.40.12:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.08.16-13.40.12:522][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.08.16-13.40.12:524][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.08.16-13.40.12:524][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.16-13.40.12:524][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.08.16-13.40.12:524][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine-4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.08.16-13.40.12:524][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine-4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.08.16-13.40.12:524][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.16-13.40.13:027][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.08.16-13.40.13:031][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.08.16-13.40.13:157][  0]LogSlate: Took 0.003035 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.16-13.40.13:160][  0]LogSlate: Took 0.003145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.16-13.40.13:164][  0]LogSlate: Took 0.002609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.16-13.40.13:258][  0]LogRenderer: Reallocating scene render targets to support 1288x616 Format 10 NumSamples 1 (Frame:1).
+[2022.08.16-13.40.13:415][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.08.16-13.40.13:415][  0]LogLoad: (Engine Initialization) Total time: 19.06 seconds
+[2022.08.16-13.40.13:415][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.16-13.40.13:449][  0]LogAssetRegistry: Asset discovery search completed in 11.6765 seconds
+[2022.08.16-13.40.13:466][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.08.16-13.40.13:468][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.16-13.40.13:696][  8]LogActor: Warning: SetReplicates called on non-initialized actor BP_Rifle_C_0. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2022.08.16-13.40.14:432][ 95]LogSlate: Took 0.003212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.16-13.42.50:277][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_TestGameMode.BP_TestGameMode
+[2022.08.16-13.42.50:317][712]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2022.08.16-13.42.50:436][712]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.08.16-13.42.53:822][ 17]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.16-13.42.56:790][349]LogSlate: Window 'BP_TestGameMode' being destroyed
+[2022.08.16-13.42.56:796][349]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-13.42.56:796][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-13.42.56:842][349]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_TestGameMode.BP_TestGameMode
+[2022.08.16-13.42.57:229][349]LogSlate: Took 0.002890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.16-13.42.59:117][548]LogSlate: Window 'BP_TestGameMode' being destroyed
+[2022.08.16-13.42.59:120][548]LogSlate: Window 'BP_TestGameMode' being destroyed
+[2022.08.16-13.42.59:123][548]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-13.42.59:123][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-13.43.25:329][842]LogHotReload: New module detected: UE4Editor-Demo-0004.dll
+[2022.08.16-13.43.26:350][846]LogHotReload: Starting Hot-Reload from IDE
+[2022.08.16-13.43.26:394][846]LogClass: HitScanTrace HotReload.
+[2022.08.16-13.43.26:398][846]LogActor: Warning: SetReplicates called on non-initialized actor Default__MWeapon. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2022.08.16-13.43.26:398][846]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Demo' in 0.0002 seconds. Added 5 classes and 4 folders.
+[2022.08.16-13.43.26:402][846]Display: HotReload successful (4 functions remapped  1 scriptstructs remapped)
+[2022.08.16-13.43.26:472][846]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0074 seconds. Added 3824 classes and 928 folders.
+[2022.08.16-13.43.26:477][846]Display: HotReload took  0.1s.
+[2022.08.16-13.43.28:294][935]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_TestGameMode.BP_TestGameMode
+[2022.08.16-13.50.14:177][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.08.16-13.50.14:177][913]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/P_TestMap' took 0.087
+[2022.08.16-13.50.14:178][913]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BB_AI] ([1] browsable assets)...
+[2022.08.16-13.50.14:178][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BB_AI]
+[2022.08.16-13.50.14:178][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_AI" FILE="E:/UE4_Demo/Saved/Autosaves/Game/AI/BB_AI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.08.16-13.50.14:178][913]LogSavePackage: Moving 'E:/UE4_Demo/Saved/BB_AI_Auto159EE289C44C84A70D1DBF5B7F974F23A.tmp' to 'E:/UE4_Demo/Saved/Autosaves/Game/AI/BB_AI_Auto1.uasset'
+[2022.08.16-13.50.14:179][913]LogFileHelpers: Auto-saving content packages took 0.001
+[2022.08.16-14.21.10:161][846]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.16-14.21.11:249][973]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.16-14.21.11:267][973]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.16-14.21.19:350][824]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Blueprints/BP_TestGameMode.BP_TestGameMode from GameModeBase to MGameMode...
+[2022.08.16-14.21.19:354][824]BlueprintLog: New page: Compile BP_TestGameMode
+[2022.08.16-14.21.19:409][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.08.16-14.21.19:428][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="E:/UE4_Demo/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2022.08.16-14.21.19:432][824]LogSavePackage: Moving 'E:/UE4_Demo/Saved/BP_TestGameMode9297D5564DF6A963E36FF895865FA217.tmp' to 'E:/UE4_Demo/Content/Blueprints/BP_TestGameMode.uasset'
+[2022.08.16-14.21.19:445][824]AssetCheck: New page: Asset Save: BP_TestGameMode
+[2022.08.16-14.21.19:445][824]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TestGameMode.BP_TestGameMode
+[2022.08.16-14.21.19:460][824]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.16-14.21.21:643][ 58]BlueprintLog: New page: Compile BP_TestGameMode
+[2022.08.16-14.21.21:671][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.08.16-14.21.22:294][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="E:/UE4_Demo/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2022.08.16-14.21.22:296][100]LogSavePackage: Moving 'E:/UE4_Demo/Saved/BP_TestGameMode765E47DA46A68C594B4B8A804B55A23A.tmp' to 'E:/UE4_Demo/Content/Blueprints/BP_TestGameMode.uasset'
+[2022.08.16-14.21.22:308][100]AssetCheck: New page: Asset Save: BP_TestGameMode
+[2022.08.16-14.21.22:308][100]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TestGameMode.BP_TestGameMode
+[2022.08.16-14.21.26:991][601]LogSlate: Window 'BP_TestGameMode' being destroyed
+[2022.08.16-14.21.26:995][601]LogSlate: Window 'BP_TestGameMode' being destroyed
+[2022.08.16-14.21.26:999][601]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-14.21.26:999][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-18.00.29:195][375]LogHttp: Warning: 000001989A008F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45B1AE1B-4CDF-E722-841E-0CA87CFFB589%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.27.2-0%2B%2B%2BUE4%2BRelease-4.27&UserID=d7aeec77405d473bad3221b0a8821d48%7C959294180a6e41898f63c1ace7fdf928%7C32b0243e-c23c-4314-882b-d51ad7abfd04&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.16-18.00.29:195][375]LogHttp: Warning: 000001989A008F00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.08.16-18.00.29:195][375]LogHttp: Warning: 000001989A008F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x198a349feb0 [can pipeline])
+[2022.08.16-18.00.29:195][375]LogHttp: Warning: 000001989A008F00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.08.16-18.00.29:195][375]LogHttp: Warning: 000001989A008F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.45.233.154) port 443 (#0))
+[2022.08.16-18.00.29:195][375]LogHttp: Warning: 000001989A008F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.16-18.00.29:195][375]LogHttp: Warning: 000001989A008F00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.08.16-18.00.29:195][375]LogHttp: Warning: 000001989A008F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.16-18.00.29:195][375]LogHttp: Warning: 000001989A008F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.16-18.00.29:196][375]LogHttp: Warning: 000001989A008F00: libcurl info message cache 7 (Closing connection 0)
+[2022.08.16-18.00.29:532][376]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45B1AE1B-4CDF-E722-841E-0CA87CFFB589%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.27.2-0%2B%2B%2BUE4%2BRelease-4.27&UserID=d7aeec77405d473bad3221b0a8821d48%7C959294180a6e41898f63c1ace7fdf928%7C32b0243e-c23c-4314-882b-d51ad7abfd04&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.16-22.49.16:645][ 59]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{158625df-0d33-4c86-8afe-2d409e2f2a3c}.
+[2022.08.16-22.49.16:645][ 59]LogAudioMixer: Resetting audio stream to device id 
+[2022.08.16-22.49.16:659][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-22.49.16:659][ 59]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-22.49.20:659][ 71]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6d8cdbca-9bd5-403d-83a5-a07db5b1ec9b}.
+[2022.08.16-22.49.20:659][ 71]LogAudioMixer: Resetting audio stream to device id 
+[2022.08.16-22.49.20:697][ 71]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-22.49.20:697][ 71]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-06.16.30:718][673]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{9874927c-926b-4d1f-958c-8ae0aafca029}.
+[2022.08.17-06.16.30:718][673]LogAudioMixer: Resetting audio stream to device id 
+[2022.08.17-06.16.30:723][673]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-06.16.30:723][673]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-06.16.39:404][699]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{9874927c-926b-4d1f-958c-8ae0aafca029}.
+[2022.08.17-06.16.39:404][699]LogAudioMixer: Resetting audio stream to device id 
+[2022.08.17-06.16.39:408][699]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-06.16.39:408][699]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-07.21.18:485][312]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6d8cdbca-9bd5-403d-83a5-a07db5b1ec9b}.
+[2022.08.17-07.21.18:485][312]LogAudioMixer: Resetting audio stream to device id 
+[2022.08.17-07.21.18:516][312]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-07.21.18:516][312]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-08.47.35:719][202]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.17-08.47.35:739][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-08.47.35:742][202]PIE: New page: PIE session: P_TestMap (2022年8月18日 上午12:47:35)
+[2022.08.17-08.47.35:746][202]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.08.17-08.47.35:747][202]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.08.17-08.47.35:747][202]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2022.08.17-08.47.35:777][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029096s)
+[2022.08.17-08.47.35:780][202]LogAIModule: Creating AISystem for world P_TestMap
+[2022.08.17-08.47.35:782][202]LogPlayLevel: PIE: World Init took: (0.003752s)
+[2022.08.17-08.47.35:782][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.033687s)
+[2022.08.17-08.47.35:846][202]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2022.08.17-08.47.35:920][202]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.08.17-08.47.35:921][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-08.47.35:921][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-08.47.35:921][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-08.47.35:921][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-08.47.35:921][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-08.47.35:921][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-08.47.35:921][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-08.47.35:921][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-08.47.35:921][202]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-08.47.35:921][202]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-08.47.35:921][202]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-08.47.35:921][202]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-08.47.35:952][202]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-08.47.35:952][202]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-08.47.35:960][202]LogAudioMixer: Display: Using Audio Device 扬声器 (JBL PS3300)
+[2022.08.17-08.47.35:963][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-08.47.35:963][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-08.47.35:964][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-08.47.35:966][202]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-08.47.35:966][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-08.47.35:966][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-08.47.35:967][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-08.47.35:967][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-08.47.35:967][202]LogInit: FAudioDevice initialized.
+[2022.08.17-08.47.35:967][202]LogAudio: Display: Audio Device (ID: 2) registered with world 'P_TestMap'.
+[2022.08.17-08.47.35:984][202]LogLoad: Game class is 'BP_TestGameMode_C'
+[2022.08.17-08.47.35:987][202]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2022.08.17-16.47.35
+[2022.08.17-08.47.35:989][202]LogWorld: Bringing up level for play took: 0.003025
+[2022.08.17-08.47.35:990][202]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.08.17-08.47.36:327][202]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0020 seconds. Added 20 classes and 0 folders.
+[2022.08.17-08.47.36:330][202]LogActor: Warning: SetReplicates called on non-initialized actor BP_Rifle_C_0. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2022.08.17-08.47.36:330][202]LogActor: Warning: SetReplicates called on non-initialized actor BP_Rifle_C_1. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2022.08.17-08.47.36:331][202]PIE: Server logged in
+[2022.08.17-08.47.36:335][202]PIE: Play in editor total start time 0.605 seconds.
+[2022.08.17-08.47.36:337][202]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:671][203]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:680][204]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:712][205]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:717][206]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:726][207]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:734][208]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:742][209]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:750][210]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:759][211]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:767][212]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:777][213]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:794][214]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:812][215]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:821][216]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:829][217]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:837][218]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:846][219]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:854][220]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:863][221]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:871][222]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:880][223]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:888][224]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:896][225]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:904][226]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:912][227]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:921][228]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:929][229]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:937][230]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:946][231]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:954][232]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:962][233]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:971][234]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:981][235]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:987][236]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.36:996][237]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:004][238]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:013][239]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:021][240]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:029][241]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:038][242]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:046][243]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:054][244]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:063][245]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:071][246]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:079][247]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:087][248]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:096][249]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:105][250]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:113][251]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:121][252]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:130][253]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:138][254]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:146][255]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:155][256]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:174][257]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:182][258]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:191][259]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:199][260]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:207][261]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:216][262]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:224][263]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:232][264]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:241][265]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:248][266]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:257][267]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:266][268]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:274][269]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:282][270]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:291][271]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:299][272]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:307][273]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:315][274]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:324][275]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:332][276]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:341][277]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:349][278]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:357][279]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:366][280]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:374][281]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:382][282]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:390][283]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:399][284]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:407][285]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:415][286]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:424][287]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:432][288]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:441][289]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:449][290]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:457][291]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:466][292]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:473][293]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:482][294]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:490][295]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:499][296]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:507][297]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:515][298]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:524][299]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:532][300]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:541][301]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:549][302]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:557][303]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:566][304]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:573][305]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:582][306]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:590][307]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:599][308]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:607][309]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:615][310]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:624][311]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:632][312]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:641][313]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:649][314]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:657][315]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:666][316]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:674][317]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:682][318]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:690][319]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:699][320]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:707][321]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:715][322]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:724][323]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:732][324]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:741][325]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:749][326]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:757][327]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:766][328]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:775][329]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:782][330]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:791][331]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:799][332]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:807][333]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:816][334]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:824][335]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:833][336]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:841][337]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:849][338]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:858][339]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:865][340]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:874][341]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:882][342]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:891][343]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:899][344]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:907][345]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:917][346]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:924][347]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:933][348]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:941][349]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:950][350]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:957][351]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:966][352]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:974][353]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:982][354]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:990][355]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.37:999][356]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:007][357]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:015][358]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:024][359]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:032][360]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:041][361]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:049][362]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:057][363]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:066][364]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:074][365]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:082][366]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:090][367]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:099][368]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:107][369]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:115][370]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:124][371]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:132][372]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:141][373]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:148][374]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:157][375]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:166][376]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:174][377]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:182][378]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:190][379]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:199][380]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:207][381]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:215][382]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:224][383]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:232][384]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:241][385]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:248][386]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:257][387]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:266][388]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:273][389]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:282][390]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:290][391]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:299][392]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:307][393]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:315][394]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:324][395]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:332][396]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:341][397]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:349][398]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:357][399]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:366][400]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:374][401]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:382][402]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:390][403]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:399][404]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:407][405]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:415][406]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:424][407]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:432][408]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:441][409]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:448][410]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:457][411]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:466][412]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:474][413]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:482][414]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:491][415]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:499][416]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:507][417]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:516][418]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:524][419]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:533][420]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:540][421]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:549][422]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:558][423]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:565][424]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:574][425]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:583][426]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:591][427]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:599][428]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:607][429]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:615][430]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:625][431]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:632][432]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:641][433]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:649][434]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:657][435]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:665][436]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:673][437]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:682][438]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:690][439]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:699][440]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:707][441]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:715][442]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:724][443]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:732][444]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:741][445]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:748][446]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:757][447]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:766][448]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:774][449]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:782][450]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:791][451]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:799][452]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:807][453]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:816][454]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:824][455]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:832][456]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:840][457]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:849][458]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:857][459]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:865][460]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:874][461]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:882][462]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:890][463]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:899][464]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:907][465]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:915][466]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:924][467]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:932][468]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:940][469]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:948][470]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:957][471]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:965][472]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:974][473]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:982][474]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:991][475]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.38:999][476]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:007][477]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:016][478]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:023][479]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:033][480]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:040][481]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:049][482]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:057][483]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:066][484]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:074][485]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:083][486]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:091][487]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:099][488]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:107][489]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:115][490]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:124][491]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:132][492]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:141][493]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:149][494]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:157][495]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:165][496]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:174][497]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:182][498]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:191][499]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:199][500]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:207][501]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:216][502]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:224][503]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:233][504]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:241][505]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:249][506]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:257][507]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:265][508]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:274][509]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:281][510]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:291][511]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:298][512]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:307][513]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:315][514]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:324][515]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:332][516]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:341][517]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:349][518]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:357][519]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:366][520]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:375][521]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:382][522]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:391][523]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:399][524]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:407][525]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:416][526]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:424][527]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:433][528]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:441][529]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:448][530]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:457][531]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:466][532]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:474][533]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:482][534]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:491][535]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:498][536]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:507][537]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:516][538]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:523][539]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:532][540]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:540][541]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:549][542]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:557][543]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:564][544]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:573][545]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:582][546]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:590][547]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:599][548]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:607][549]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:615][550]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:624][551]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:632][552]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:641][553]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:648][554]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:657][555]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:666][556]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:674][557]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:682][558]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:691][559]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:699][560]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:707][561]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:716][562]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:724][563]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:732][564]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:741][565]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:749][566]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:757][567]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:766][568]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:774][569]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:783][570]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:790][571]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:791][571]LogTemp: Health Changed: 80.0
+[2022.08.17-08.47.39:799][572]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:807][573]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:815][574]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:824][575]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:832][576]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:841][577]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:849][578]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:857][579]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:866][580]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:874][581]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:882][582]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:891][583]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:899][584]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:907][585]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:920][586]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:929][587]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:937][588]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:945][589]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:954][590]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:962][591]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:970][592]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:979][593]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:987][594]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.39:995][595]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:004][596]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:012][597]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:021][598]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:028][599]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:037][600]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:046][601]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:054][602]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:062][603]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:071][604]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:079][605]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:087][606]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:096][607]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:104][608]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:112][609]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:120][610]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:129][611]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:138][612]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:145][613]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:154][614]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:162][615]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:170][616]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:179][617]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:187][618]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:195][619]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:204][620]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:212][621]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:221][622]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:229][623]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:237][624]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:246][625]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:254][626]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:262][627]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:271][628]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:279][629]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:287][630]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:295][631]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:295][631]LogTemp: Health Changed: 60.0
+[2022.08.17-08.47.40:304][632]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:312][633]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:321][634]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:328][635]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:337][636]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:346][637]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:353][638]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:362][639]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:371][640]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:378][641]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:387][642]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:395][643]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:403][644]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:412][645]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:420][646]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:429][647]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:437][648]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:445][649]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:454][650]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:461][651]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:470][652]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:479][653]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:487][654]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:495][655]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:504][656]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:511][657]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:520][658]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:528][659]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:537][660]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:545][661]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:553][662]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:562][663]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:570][664]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:578][665]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:586][666]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:595][667]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:603][668]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:612][669]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:620][670]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:628][671]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:637][672]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:645][673]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:654][674]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:661][675]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:670][676]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:679][677]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:687][678]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:695][679]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:704][680]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:712][681]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:720][682]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:729][683]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:736][684]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:745][685]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:753][686]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:762][687]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:771][688]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:779][689]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:787][690]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:796][691]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:796][691]LogTemp: Health Changed: 40.0
+[2022.08.17-08.47.40:804][692]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:812][693]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:820][694]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:829][695]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:837][696]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:845][697]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:853][698]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:862][699]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:870][700]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:878][701]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:886][702]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:895][703]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:895][703]LogTemp: Health Changed: 20.0
+[2022.08.17-08.47.40:903][704]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:912][705]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:920][706]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:928][707]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:937][708]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:944][709]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:953][710]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:961][711]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:970][712]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:978][713]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:987][714]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:995][715]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.40:996][715]LogTemp: Health Changed: 0.0
+[2022.08.17-08.47.41:003][716]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:012][717]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:020][718]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:028][719]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:036][720]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:045][721]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:053][722]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:062][723]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:070][724]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:078][725]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:086][726]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:095][727]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:103][728]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:112][729]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:120][730]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:128][731]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:137][732]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:145][733]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:154][734]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:162][735]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:170][736]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:179][737]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:187][738]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:195][739]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:204][740]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:211][741]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:221][742]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:228][743]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:237][744]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:245][745]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:253][746]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:262][747]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:270][748]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:278][749]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:287][750]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:296][751]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:304][752]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:312][753]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:320][754]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:328][755]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:337][756]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:345][757]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:354][758]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:361][759]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:370][760]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:378][761]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:387][762]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:395][763]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:403][764]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:411][765]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:420][766]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:428][767]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:436][768]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:445][769]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:453][770]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:462][771]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:470][772]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:478][773]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:486][774]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:495][775]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:503][776]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:512][777]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:520][778]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:529][779]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:537][780]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:545][781]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:554][782]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:561][783]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:570][784]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:578][785]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:587][786]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:595][787]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:603][788]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:611][789]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:620][790]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:628][791]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:636][792]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:645][793]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:653][794]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:662][795]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:670][796]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:678][797]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:686][798]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:695][799]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:703][800]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:712][801]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:720][802]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:728][803]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:737][804]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:745][805]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:754][806]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:761][807]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:770][808]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:778][809]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:787][810]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:795][811]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:804][812]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:811][813]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:820][814]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:828][815]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:836][816]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:845][817]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:853][818]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:862][819]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:870][820]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:878][821]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:887][822]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:895][823]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:903][824]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:912][825]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:919][826]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:928][827]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:937][828]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:945][829]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:953][830]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:961][831]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:970][832]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:978][833]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:987][834]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.41:994][835]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:003][836]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:011][837]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:020][838]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:028][839]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:037][840]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:045][841]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:053][842]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:062][843]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:070][844]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:078][845]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:086][846]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:095][847]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:103][848]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:112][849]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:120][850]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:129][851]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:137][852]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:145][853]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:154][854]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:162][855]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:170][856]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:179][857]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:187][858]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:195][859]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:204][860]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:212][861]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:220][862]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:228][863]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:236][864]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:245][865]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:253][866]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:262][867]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:270][868]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:279][869]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:287][870]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:295][871]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:304][872]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:312][873]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:320][874]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:329][875]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:337][876]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:345][877]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:354][878]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:361][879]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:370][880]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:379][881]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:387][882]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:395][883]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:404][884]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:411][885]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:421][886]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:429][887]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:436][888]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:445][889]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:453][890]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:462][891]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:470][892]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:479][893]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:487][894]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:495][895]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:503][896]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:512][897]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:520][898]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:528][899]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:536][900]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:545][901]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:553][902]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:562][903]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:570][904]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:578][905]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:586][906]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:595][907]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:603][908]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:612][909]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:620][910]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:628][911]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:637][912]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:645][913]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:653][914]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:661][915]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:670][916]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:678][917]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:687][918]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:694][919]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:703][920]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:711][921]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:721][922]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:728][923]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:736][924]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:745][925]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:753][926]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:762][927]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:770][928]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:778][929]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:786][930]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:795][931]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:803][932]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:812][933]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:820][934]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:829][935]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:837][936]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:845][937]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:854][938]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:862][939]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:870][940]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:878][941]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:887][942]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:895][943]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:904][944]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:911][945]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:921][946]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:929][947]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:937][948]LogBlueprintUserMessages: [PlayerPawn_C_0] 100.0
+[2022.08.17-08.47.42:960][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-08.47.42:960][948]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_P_TestMap
+[2022.08.17-08.47.42:960][948]LogWorld: UWorld::CleanupWorld for P_TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-08.47.42:961][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-08.47.42:965][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-08.47.42:970][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-08.47.42:992][948]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-08.47.42:992][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-08.47.42:993][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-08.47.42:994][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-08.47.43:055][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.08.17-08.47.43:075][949]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.08.17-09.55.49:235][431]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.08.17-09.55.50:191][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.08.17-09.55.54:671][ 23]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.08.17-09.55.55:212][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.08.17-11.03.34:432][842]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.08.17-11.03.54:502][151]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.17-11.03.54:506][151]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.17-11.05.01:490][ 28]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.08.17-11.05.01:493][ 28]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.08.17-11.05.58:815][875]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_TestGameMode.BP_TestGameMode
+[2022.08.17-11.06.09:729][919]BlueprintLog: New page: Compile BP_TestGameMode
+[2022.08.17-11.06.09:904][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.08.17-11.06.09:931][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TestGameMode" FILE="E:/UE4_Demo/Content/Blueprints/BP_TestGameMode.uasset" SILENT=true
+[2022.08.17-11.06.09:938][919]LogSavePackage: Moving 'E:/UE4_Demo/Saved/BP_TestGameMode8A5F846B499B84437FD0299A5971B269.tmp' to 'E:/UE4_Demo/Content/Blueprints/BP_TestGameMode.uasset'
+[2022.08.17-11.06.09:950][919]AssetCheck: New page: Asset Save: BP_TestGameMode
+[2022.08.17-11.06.09:950][919]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TestGameMode.BP_TestGameMode
+[2022.08.17-11.06.15:558][590]LogSlate: Window 'BP_TestGameMode' being destroyed
+[2022.08.17-11.06.15:561][590]LogSlate: Window 'BP_TestGameMode' being destroyed
+[2022.08.17-11.06.15:610][590]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-11.06.15:610][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-11.06.26:671][799]LogContentBrowser: Deferred new asset file creation: NewEnvQuery
+[2022.08.17-11.06.26:689][799]LogContentBrowser: Creating deferred item: NewEnvQuery
+[2022.08.17-11.06.32:107][445]LogContentBrowser: Attempting asset rename: NewEnvQuery -> NewEnvQuery
+[2022.08.17-11.06.32:109][445]LogContentBrowser: End creating deferred item NewEnvQuery
+[2022.08.17-11.06.33:759][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.08.17-11.06.35:088][622]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.17-11.06.35:170][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.08.17-12.18.04:422][451]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.17-12.18.04:425][451]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.17-12.18.11:636][451]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.08.17-12.18.11:642][451]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.08.17-12.18.11:702][451]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.08.17-12.18.22:785][771]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EQSTestingPawn
+[2022.08.17-12.18.22:790][771]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.08.17-12.18.24:296][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.08.17-12.18.28:750][436]LogAssetEditorSubsystem: Opening Asset editor for EnvQuery /Game/AI/EQS_FindMoveTo.EQS_FindMoveTo
+[2022.08.17-12.19.31:799][936]LogSlate: Window 'EQS_FindMoveTo' being destroyed
+[2022.08.17-12.19.31:803][936]LogSlate: Window 'EQS_FindMoveTo' being destroyed
+[2022.08.17-12.19.34:888][238]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_EQSTestingPawn.BP_EQSTestingPawn
+[2022.08.17-12.19.35:328][238]LogTexture: Display: Building textures: S_Pawn (OODLE_AutoDXT, 64X64)
+[2022.08.17-12.19.35:352][238]LogRenderer: Reallocating scene render targets to support 1288x760 Format 10 NumSamples 1 (Frame:1).
+[2022.08.17-12.19.41:677][854]BlueprintLog: New page: Compile BP_EQSTestingPawn
+[2022.08.17-12.19.41:720][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.08.17-12.19.41:741][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EQSTestingPawn" FILE="E:/UE4_Demo/Content/Blueprints/BP_EQSTestingPawn.uasset" SILENT=true
+[2022.08.17-12.19.41:747][854]LogSavePackage: Moving 'E:/UE4_Demo/Saved/BP_EQSTestingPawn2150336C4A7215D9879279BB9B31A360.tmp' to 'E:/UE4_Demo/Content/Blueprints/BP_EQSTestingPawn.uasset'
+[2022.08.17-12.19.41:752][854]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/BP_EQSTestingPawn.
+[2022.08.17-12.19.41:756][854]AssetCheck: New page: Asset Save: BP_EQSTestingPawn
+[2022.08.17-12.19.41:756][854]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_EQSTestingPawn.BP_EQSTestingPawn
+[2022.08.17-12.19.42:375][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EQSTestingPawn" FILE="E:/UE4_Demo/Content/Blueprints/BP_EQSTestingPawn.uasset" SILENT=true
+[2022.08.17-12.19.42:379][911]LogSavePackage: Moving 'E:/UE4_Demo/Saved/BP_EQSTestingPawn98529B6D4DD5F8E17E554C9BB1EC8A0B.tmp' to 'E:/UE4_Demo/Content/Blueprints/BP_EQSTestingPawn.uasset'
+[2022.08.17-12.19.42:387][911]AssetCheck: New page: Asset Save: BP_EQSTestingPawn
+[2022.08.17-12.19.42:387][911]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_EQSTestingPawn.BP_EQSTestingPawn
+[2022.08.17-12.19.43:680][ 49]LogSlate: Window 'BP_EQSTestingPawn' being destroyed
+[2022.08.17-12.19.43:684][ 49]LogSlate: Window 'BP_EQSTestingPawn' being destroyed
+[2022.08.17-12.19.43:715][ 49]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-12.19.43:715][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-12.20.26:470][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.08.17-12.20.26:478][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap" FILE="E:/UE4_Demo/Saved/Autosaves/Game/Maps/P_TestMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.08.17-12.20.26:487][ 58]LogSavePackage: Moving 'E:/UE4_Demo/Saved/P_TestMap_Auto28D8B84674E926B49755C61A93C7D19A9.tmp' to 'E:/UE4_Demo/Saved/Autosaves/Game/Maps/P_TestMap_Auto2.umap'
+[2022.08.17-12.20.26:487][ 58]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/P_TestMap' took 0.037
+[2022.08.17-12.20.26:487][ 58]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2022.08.17-12.21.18:269][182]LogAssetEditorSubsystem: Opening Asset editor for EnvQuery /Game/AI/EQS_FindMoveTo.EQS_FindMoveTo
+[2022.08.17-12.22.51:139][988]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.17-12.22.51:156][988]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.17-12.41.07:880][586]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.08.17-12.41.07:884][586]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.08.17-12.41.07:895][586]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.08.17-12.41.10:928][885]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1563)].
+[2022.08.17-12.41.10:928][885]LogContentBrowser: Attempting asset rename: NewBlueprint -> Env
+[2022.08.17-12.41.10:930][885]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/Env.
+[2022.08.17-12.41.10:931][885]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.08.17-12.41.10:958][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.08.17-12.41.10:970][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/P_TestMap" FILE="E:/UE4_Demo/Saved/Autosaves/Game/Maps/P_TestMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.08.17-12.41.10:978][885]LogSavePackage: Moving 'E:/UE4_Demo/Saved/P_TestMap_Auto36669B9B842576E14E0B78AA3349B0E97.tmp' to 'E:/UE4_Demo/Saved/Autosaves/Game/Maps/P_TestMap_Auto3.umap'
+[2022.08.17-12.41.10:978][885]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/P_TestMap' took 0.040
+[2022.08.17-12.41.10:978][885]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2022.08.17-12.41.10:979][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/EQS_FindMoveTo] ([1] browsable assets)...
+[2022.08.17-12.41.10:979][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EQS_FindMoveTo]
+[2022.08.17-12.41.10:979][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EQS_FindMoveTo" FILE="E:/UE4_Demo/Saved/Autosaves/Game/AI/EQS_FindMoveTo_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.08.17-12.41.10:980][885]LogSavePackage: Moving 'E:/UE4_Demo/Saved/EQS_FindMoveTo_Auto384F47EC049EEC4E24B21C4852DFA6A01.tmp' to 'E:/UE4_Demo/Saved/Autosaves/Game/AI/EQS_FindMoveTo_Auto3.uasset'
+[2022.08.17-12.41.10:980][885]LogFileHelpers: Auto-saving content packages took 0.002
+[2022.08.17-12.41.43:482][635]LogContentBrowser: Attempting asset rename: Env -> EnvQueryContext_allPlayers
+[2022.08.17-12.41.43:507][635]LogMetaData: Removing '/Game/Blueprints/EnvQueryContext_allPlayers.SKEL_EnvQueryContext_allPlayers_C' ref from Metadata '/Game/Blueprints/Env.PackageMetaData'
+[2022.08.17-12.41.43:507][635]LogMetaData: Removing '/Game/Blueprints/EnvQueryContext_allPlayers.EnvQueryContext_allPlayers_C' ref from Metadata '/Game/Blueprints/Env.PackageMetaData'
+[2022.08.17-12.41.43:524][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnvQueryContext_allPlayers" FILE="E:/UE4_Demo/Content/Blueprints/EnvQueryContext_allPlayers.uasset" SILENT=true
+[2022.08.17-12.41.43:524][635]LogSavePackage: Moving 'E:/UE4_Demo/Saved/EnvQueryContext_allPlayersA9CB26DF46AD6448DFBB68A9FCDC996E.tmp' to 'E:/UE4_Demo/Content/Blueprints/EnvQueryContext_allPlayers.uasset'
+[2022.08.17-12.41.43:590][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.08.17-12.41.43:617][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.08.17-12.41.43:632][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.08.17-12.41.43:668][635]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/EnvQueryContext_allPlayers.
+[2022.08.17-12.41.43:674][635]AssetCheck: New page: Asset Save: EnvQueryContext_allPlayers
+[2022.08.17-12.41.43:674][635]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/EnvQueryContext_allPlayers.EnvQueryContext_allPlayers
+[2022.08.17-12.41.51:026][419]LogContentBrowser: Attempting asset rename: EnvQueryContext_allPlayers -> EnvQueryContext_AllPlayers
+[2022.08.17-12.41.51:063][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnvQueryContext_allPlayers" FILE="E:/UE4_Demo/Content/Blueprints/EnvQueryContext_allPlayers.uasset" SILENT=true
+[2022.08.17-12.41.51:063][419]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.08.17-12.42.06:157][419]LogStats: FPlatformStackWalk::StackWalkAndDump - 15.093 s
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: === Handled ensure: ===
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: 
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/UnrealEngine-4.27/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: Found circular redirect from /Game/Blueprints/EnvQueryContext_allPlayers.EnvQueryContext_allPlayers to /Game/Blueprints/EnvQueryContext_AllPlayers.EnvQueryContext_AllPlayers! Returning None instead
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: Stack: 
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb67d7e3 UE4Editor-CoreUObject.dll!DispatchCheckVerify<bool,<lambda_a0be156f5eee3db32107f2ddce603edf> >() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb1f80d7 UE4Editor-CoreUObject.dll!FRedirectCollector::GetAssetPathRedirection() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp:222]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb590376 UE4Editor-CoreUObject.dll!FSoftObjectPath::PreSavePath() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp:160]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb5a9b8e UE4Editor-CoreUObject.dll!FSoftObjectPath::SerializePath() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp:213]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb21d367 UE4Editor-CoreUObject.dll!FArchiveUObject::SerializeSoftObjectPath() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\Serialization\ArchiveUObject.cpp:91]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffada6d8622 UE4Editor-Core.dll!FStructuredArchiveSlot::operator<<() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Private\Serialization\StructuredArchive.cpp:543]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb5a19c3 UE4Editor-CoreUObject.dll!FSoftObjectPath::Serialize() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp:198]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb4a7869 UE4Editor-CoreUObject.dll!UScriptStruct::TCppStructOps<FSoftObjectPath>::Serialize() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Public\UObject\Class.h:1287]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb2d68c5 UE4Editor-CoreUObject.dll!UScriptStruct::SerializeItem() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:2739]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb54ae1b UE4Editor-CoreUObject.dll!FStructProperty::SerializeItem() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\PropertyStruct.cpp:152]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb54b139 UE4Editor-CoreUObject.dll!FPropertyTag::SerializeTaggedProperty() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\PropertyTag.cpp:241]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb2d9b21 UE4Editor-CoreUObject.dll!UStruct::SerializeVersionedTaggedProperties() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:1589]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb2d754c UE4Editor-CoreUObject.dll!UStruct::SerializeTaggedProperties() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:1287]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb2d69dd UE4Editor-CoreUObject.dll!UScriptStruct::SerializeItem() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:2779]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb54ae1b UE4Editor-CoreUObject.dll!FStructProperty::SerializeItem() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\PropertyStruct.cpp:152]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb4ed496 UE4Editor-CoreUObject.dll!FArrayProperty::SerializeItem() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\PropertyArray.cpp:326]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb54b139 UE4Editor-CoreUObject.dll!FPropertyTag::SerializeTaggedProperty() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\PropertyTag.cpp:241]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb2d9b21 UE4Editor-CoreUObject.dll!UStruct::SerializeVersionedTaggedProperties() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:1589]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb2d754c UE4Editor-CoreUObject.dll!UStruct::SerializeTaggedProperties() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:1287]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb495714 UE4Editor-CoreUObject.dll!UObject::SerializeScriptProperties() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Obj.cpp:1467]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb491e30 UE4Editor-CoreUObject.dll!UObject::Serialize() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Obj.cpp:1387]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb4918ab UE4Editor-CoreUObject.dll!UObject::Serialize() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Obj.cpp:1272]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffad395fae0 UE4Editor-Engine.dll!UBlueprintCore::Serialize() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Engine\Private\Blueprint.cpp:275]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffad395f6e4 UE4Editor-Engine.dll!UBlueprint::Serialize() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Engine\Private\Blueprint.cpp:419]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb52e392 UE4Editor-CoreUObject.dll!FArchiveSaveTagExports::ProcessTaggedObjects() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\SavePackage.cpp:333]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb54ec9b UE4Editor-CoreUObject.dll!FPackageExportTagger::TagPackageExports() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\SavePackage.cpp:1794]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffadb5352f2 UE4Editor-CoreUObject.dll!UPackage::Save() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\SavePackage.cpp:2416]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffad69e25eb UE4Editor-UnrealEd.dll!UEditorEngine::Save() [D:\UnrealEngine-4.27\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:4622]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffad69e30de UE4Editor-UnrealEd.dll!UEditorEngine::SavePackage() [D:\UnrealEngine-4.27\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:4634]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffad6a1cf6e UE4Editor-UnrealEd.dll!UEditorEngine::Exec_Obj() [D:\UnrealEngine-4.27\Engine\Source\Editor\UnrealEd\Private\EditorServer.cpp:4664]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffad6a1985c UE4Editor-UnrealEd.dll!UEditorEngine::Exec() [D:\UnrealEngine-4.27\Engine\Source\Editor\UnrealEd\Private\EditorServer.cpp:5769]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffad72ab537 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Exec() [D:\UnrealEngine-4.27\Engine\Source\Editor\UnrealEd\Private\UnrealEdSrv.cpp:697]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffad6d9e3f6 UE4Editor-UnrealEd.dll!InternalSavePackage() [D:\UnrealEngine-4.27\Engine\Source\Editor\UnrealEd\Private\FileHelpers.cpp:3103]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffad6d9cd1d UE4Editor-UnrealEd.dll!InternalPromptForCheckoutAndSave() [D:\UnrealEngine-4.27\Engine\Source\Editor\UnrealEd\Private\FileHelpers.cpp:3667]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffad6db43a5 UE4Editor-UnrealEd.dll!FEditorFileUtils::PromptForCheckoutAndSave() [D:\UnrealEngine-4.27\Engine\Source\Editor\UnrealEd\Private\FileHelpers.cpp:3960]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffacb10ac81 UE4Editor-AssetTools.dll!FAssetRenameManager::PerformAssetRename() [D:\UnrealEngine-4.27\Engine\Source\Developer\AssetTools\Private\AssetRenameManager.cpp:1425]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffacb0a6efd UE4Editor-AssetTools.dll!FAssetRenameManager::FixReferencesAndRename() [D:\UnrealEngine-4.27\Engine\Source\Developer\AssetTools\Private\AssetRenameManager.cpp:454]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffacb124ccd UE4Editor-AssetTools.dll!FAssetRenameManager::RenameAssetsWithDialog() [D:\UnrealEngine-4.27\Engine\Source\Developer\AssetTools\Private\AssetRenameManager.cpp:268]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffab7e9cae3 UE4Editor-ContentBrowserAssetDataSource.dll!ContentBrowserAssetData::RenameAssetFileItem() [D:\UnrealEngine-4.27\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataCore.cpp:790]
+[2022.08.17-12.42.06:157][419]LogOutputDevice: Error: [Callstack] 0x00007ffab7e9cdd1 UE4Editor-ContentBrowserAssetDataSource.dll!ContentBrowserAssetData::RenameItem() [D:\UnrealEngine-4.27\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataCore.cpp:755]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffab7e9ceaf UE4Editor-ContentBrowserAssetDataSource.dll!UContentBrowserAssetDataSource::RenameItem() [D:\UnrealEngine-4.27\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataSource.cpp:1135]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffacbdec266 UE4Editor-ContentBrowserData.dll!FContentBrowserItem::Rename() [D:\UnrealEngine-4.27\Engine\Source\Editor\ContentBrowserData\Private\ContentBrowserItem.cpp:480]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffacb903d00 UE4Editor-ContentBrowser.dll!SAssetView::AssetRenameCommit() [D:\UnrealEngine-4.27\Engine\Source\Editor\ContentBrowser\Private\SAssetView.cpp:3640]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffacb94b2fa UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SAssetView,0,void __cdecl(TSharedPtr<FAssetViewItem,0> const &,FString const &,FSlateRect const &,enum ETextCommit::Type),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffacb96c54b UE4Editor-ContentBrowser.dll!SAssetViewItem::HandleNameCommitted() [D:\UnrealEngine-4.27\Engine\Source\Editor\ContentBrowser\Private\AssetViewWidgets.cpp:528]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffacb94a432 UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SAssetTileItem,0,void __cdecl(FText const &,enum ETextCommit::Type),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffad960f144 UE4Editor-Slate.dll!SInlineEditableTextBlock::OnTextBoxCommitted() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Widgets\Text\SInlineEditableTextBlock.cpp:323]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffad95f8b62 UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SInlineEditableTextBlock,0,void __cdecl(FText const &,enum ETextCommit::Type),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffad9500408 UE4Editor-Slate.dll!SEditableTextBox::OnEditableTextCommitted() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Widgets\Input\SEditableTextBox.cpp:482]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffad94e96b2 UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SEditableTextBox,0,void __cdecl(FText const &,enum ETextCommit::Type),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffad95ff1b6 UE4Editor-Slate.dll!FSlateEditableTextLayout::HandleCarriageReturn() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Widgets\Text\SlateEditableTextLayout.cpp:1519]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffad96005ee UE4Editor-Slate.dll!FSlateEditableTextLayout::HandleKeyDown() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Widgets\Text\SlateEditableTextLayout.cpp:967]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffad9500ff4 UE4Editor-Slate.dll!SEditableText::OnKeyDown() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Widgets\Input\SEditableText.cpp:212]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffad9342891 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FKeyEvent,<lambda_f630e7f24dbef73857a69219e32f2d96> >() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:383]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffad93aa70b UE4Editor-Slate.dll!FSlateApplication::ProcessKeyDownEvent() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4341]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffad939dcf6 UE4Editor-Slate.dll!FSlateApplication::OnKeyDown() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4238]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffb3108bdca UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [D:\UnrealEngine-4.27\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2040]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffb31079387 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [D:\UnrealEngine-4.27\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2698]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffb3108e560 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [D:\UnrealEngine-4.27\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1881]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffb310744f0 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [D:\UnrealEngine-4.27\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:905]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffb853ee9bc USER32.dll!UnknownFunction []
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffb853ee3e1 USER32.dll!UnknownFunction []
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffb3108fd94 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [D:\UnrealEngine-4.27\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsPlatformApplicationMisc.cpp:125]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ff77e0d7314 UE4Editor.exe!FEngineLoop::Tick() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:4850]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ff77e0f0adc UE4Editor.exe!GuardedMain() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Launch.cpp:178]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ff77e0f0bca UE4Editor.exe!GuardedMainWrapper() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ff77e0f3bed UE4Editor.exe!LaunchWindowsStartup() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:273]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ff77e1052c4 UE4Editor.exe!WinMain() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:320]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ff77e107e6a UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\63\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffb85cd244d KERNEL32.DLL!UnknownFunction []
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: [Callstack] 0x00007ffb863cdf78 ntdll.dll!UnknownFunction []
+[2022.08.17-12.42.06:158][419]LogOutputDevice: Error: 
+[2022.08.17-12.42.06:164][419]LogStats:                SubmitErrorReport -  0.000 s

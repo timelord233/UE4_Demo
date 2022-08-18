@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>BBBB0A0047F30DB4A1DE1582C510185A</ExecutionGuid>
+<CrashGUID>UE4CC-Windows-AAFF41B0493D7886B534C28F89004104_0000</CrashGUID>
+<IsEnsure>true</IsEnsure>
+<IsAssert>false</IsAssert>
+<CrashType>Ensure</CrashType>
+<ErrorMessage>Ensure condition failed: !NeedsInitialization() [File:D:/UnrealEngine-4.27/Engine/Source/Runtime/Engine/Private/Components/ActorComponent.cpp] [Line: 1924]
+SetIsReplicatedByDefault is preferred during Component Construction.
+Stack: 
+0x00007ffc5b442069 UE4Editor-Engine.dll!DispatchCheckVerify&lt;bool,&lt;lambda_e0c13e34bb0445226aa7ad91e59461fe&gt; &gt;() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+0x00007ffc59e060dd UE4Editor-Engine.dll!UActorComponent::SetIsReplicated() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Engine\Private\Components\ActorComponent.cpp:1924]
+0x00007ffc35d02c6a UE4Editor-Demo-0002.dll!UMHealthComponent::UMHealthComponent() [E:\UE4_Demo\Source\Demo\Private\Components\MHealthComponent.cpp:12]
+0x00007ffc73de5e53 UE4Editor-CoreUObject.dll!UClass::CreateDefaultObject() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:3791]
+0x00007ffc740c4015 UE4Editor-CoreUObject.dll!FObjectInitializer::CreateDefaultSubobject() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:3815]
+0x00007ffc73f9ec0f UE4Editor-CoreUObject.dll!UObject::CreateDefaultSubobject() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Obj.cpp:116]
+0x00007ffc35d0493a UE4Editor-Demo-0002.dll!AMCharacter::AMCharacter() [E:\UE4_Demo\Source\Demo\Private\MCharacter.cpp:28]
+0x00007ffc73de5e53 UE4Editor-CoreUObject.dll!UClass::CreateDefaultObject() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:3791]
+0x00007ffc74106bfe UE4Editor-CoreUObject.dll!UObjectLoadAllCompiledInDefaultProperties() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectBase.cpp:911]
+0x00007ffc740e37a1 UE4Editor-CoreUObject.dll!ProcessNewlyLoadedUObjects() [D:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectBase.cpp:1003]
+0x00007ffc73fac7f5 UE4Editor-CoreUObject.dll!TBaseStaticDelegateInstance&lt;void __cdecl(FName,bool),FDefaultDelegateUserPolicy&gt;::ExecuteIfSafe() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:731]
+0x00007ffc5cc73a0a UE4Editor-Core.dll!TMulticastDelegate&lt;void __cdecl(FName,bool),FDefaultDelegateUserPolicy&gt;::Broadcast() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates\DelegateSignatureImpl.inl:955]
+0x00007ffc5cc9564f UE4Editor-Core.dll!FModuleManager::LoadModuleWithFailureReason() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Private\Modules\ModuleManager.cpp:519]
+0x00007ffcc6f561e3 UE4Editor-Projects.dll!FModuleDescriptor::LoadModulesForPhase() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Projects\Private\ModuleDescriptor.cpp:643]
+0x00007ffcc6f564ee UE4Editor-Projects.dll!FProjectManager::LoadModulesForProject() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Projects\Private\ProjectManager.cpp:62]
+0x00007ff6e8215142 UE4Editor.exe!FEngineLoop::LoadStartupModules() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:3880]
+0x00007ff6e8218a3a UE4Editor.exe!FEngineLoop::PreInitPostStartupScreen() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:3263]
+0x00007ff6e821083d UE4Editor.exe!GuardedMain() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Launch.cpp:132]
+0x00007ff6e8210bca UE4Editor.exe!GuardedMainWrapper() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+0x00007ff6e8213bed UE4Editor.exe!LaunchWindowsStartup() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:273]
+0x00007ff6e82252c4 UE4Editor.exe!WinMain() [D:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:320]
+0x00007ff6e8227e6a UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\63\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+0x00007ffcf158244d KERNEL32.DLL!UnknownFunction []
+0x00007ffcf2d4df78 ntdll.dll!UnknownFunction []
+</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<ProcessId>35604</ProcessId>
+<SecondsSinceStart>0</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>true</IsSourceDistribution>
+<GameName>UE4-Demo</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<Symbols>**UE4*Release-4.27-CL-0-Win64-Development</Symbols>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.27.2-0+++UE4+Release-4.27</EngineVersion>
+<CommandLine> E:\UE4_Demo\Demo.uproject</CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>zh-CN</AppDefaultLocale>
+<BuildVersion>++UE4+Release-4.27-CL-0</BuildVersion>
+<IsUE4Release>false</IsUE4Release>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>D:/UnrealEngine-4.27/Engine/Binaries/Win64/</BaseDir>
+<RootDir>D:/UnrealEngine-4.27/</RootDir>
+<MachineId>D7AEEC77405D473BAD3221B0A8821D48</MachineId>
+<LoginId>d7aeec77405d473bad3221b0a8821d48</LoginId>
+<EpicAccountId>959294180a6e41898f63c1ace7fdf928</EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>8</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>16</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce RTX 3070</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10 (Release 2009)</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>34282545152</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>32</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>14094360576</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>10358849536</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>1128882176</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>1128882176</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>1179127808</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>1179127808</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+UE4Editor-Engine       0x00007ffc59590000 + 1eb2069         
+UE4Editor-Engine       0x00007ffc59590000 + 8760dd          
+UE4Editor-Demo-0002    0x00007ffc35d00000 + 2c6a            
+UE4Editor-CoreUObject  0x00007ffc73ca0000 + 145e53          
+UE4Editor-CoreUObject  0x00007ffc73ca0000 + 424015          
+UE4Editor-CoreUObject  0x00007ffc73ca0000 + 2fec0f          
+UE4Editor-Demo-0002    0x00007ffc35d00000 + 493a            
+UE4Editor-CoreUObject  0x00007ffc73ca0000 + 145e53          
+UE4Editor-CoreUObject  0x00007ffc73ca0000 + 466bfe          
+UE4Editor-CoreUObject  0x00007ffc73ca0000 + 4437a1          
+UE4Editor-CoreUObject  0x00007ffc73ca0000 + 30c7f5          
+UE4Editor-Core         0x00007ffc5c8f0000 + 383a0a          
+UE4Editor-Core         0x00007ffc5c8f0000 + 3a564f          
+UE4Editor-Projects     0x00007ffcc6f30000 + 261e3           
+UE4Editor-Projects     0x00007ffcc6f30000 + 264ee           
+UE4Editor              0x00007ff6e81f0000 + 25142           
+UE4Editor              0x00007ff6e81f0000 + 28a3a           
+UE4Editor              0x00007ff6e81f0000 + 2083d           
+UE4Editor              0x00007ff6e81f0000 + 20bca           
+UE4Editor              0x00007ff6e81f0000 + 23bed           
+UE4Editor              0x00007ff6e81f0000 + 352c4           
+UE4Editor              0x00007ff6e81f0000 + 37e6a           
+KERNEL32               0x00007ffcf1570000 + 1244d           
+ntdll                  0x00007ffcf2cf0000 + 5df78           
+</PCallStack>
+<PCallStackHash>6805B7205A59ECFF6F4CBB43BCC43E6EE453B369</PCallStackHash>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>false</IsRunningOnBattery>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+<EngineData>
+<RHI.IsGPUOverclocked>false</RHI.IsGPUOverclocked>
+<RHI.RHIName>D3D11</RHI.RHIName>
+<RHI.AdapterName>NVIDIA GeForce RTX 3070</RHI.AdapterName>
+<RHI.UserDriverVersion>471.11</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>30.0.14.7111</RHI.InternalDriverVersion>
+<RHI.DriverDate>6-21-2021</RHI.DriverDate>
+<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+<DeviceProfile.Name>Windows</DeviceProfile.Name>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>
