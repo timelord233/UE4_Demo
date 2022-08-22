@@ -93,7 +93,7 @@ protected:
 	UFUNCTION()
 	void OnRep_HitScanTrace();
 
-public:	
+public:
 	void StartFire();
 
 	void StopFire();

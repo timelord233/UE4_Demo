@@ -154,6 +154,7 @@ void AMWeapon::PlayFireEffect(FVector TracerEnd)
 			PC->ClientStartCameraShake(FireCamShake);
 		}
 	}
+    
 }
 
 void AMWeapon::PlayImpactEffect(EPhysicalSurface SurfaceType, FVector ImpactPoint)
