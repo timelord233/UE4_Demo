@@ -10,6 +10,7 @@
 #include "MWeapon.h"
 #include "../Demo.h"
 #include "Net/UnrealNetwork.h"
+#include "MGrenade.h"
 
 // Sets default values
 AMCharacter::AMCharacter()
@@ -32,6 +33,7 @@ AMCharacter::AMCharacter()
 
 	ZoomedFOV = 65;
 	ZoomInterSpeed = 20;
+	GrenadeOffset = FVector(200, 0, 0);
 
 	WeaponAttachSocketName = "WeaponSocket";
 }
@@ -106,6 +108,42 @@ void AMCharacter::StopFire()
 	}
 }
 
+void AMCharacter::ThrowGrenade()
+{
+	if (GetLocalRole() < ROLE_Authority)
+	{
+		ServerThrowGrenade();
+		return;
+	}
+
+	if (StarterGrenadeClass)
+	{
+		FVector SpawnLocation = GetActorLocation() + GetControlRotation().RotateVector(GrenadeOffset);
+		//	FRotator MuzzleRotation = SkeletalMeshComponent->GetSocketRotation(MuzzleSocketName); // NOTE: this has a fixed zero Pitch for now, use ViewpointOrientation instead
+		FVector ViewpointLocation;
+		FRotator ViewpointOrientation;
+		GetActorEyesViewPoint(ViewpointLocation, ViewpointOrientation);
+
+		// Set Spawn Collision Handling Override
+		FActorSpawnParameters SpawnParams;
+		SpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AlwaysSpawn;
+		SpawnParams.Instigator = this; // required to associate the projectile to the Pawn
+
+		// Spawn a Grenade
+		CurrentGrenade = GetWorld()->SpawnActor<AMGrenade>(StarterGrenadeClass, SpawnLocation, ViewpointOrientation, SpawnParams);
+	}
+}
+
+void AMCharacter::ServerThrowGrenade_Implementation()
+{
+	ThrowGrenade();
+}
+
+bool AMCharacter::ServerThrowGrenade_Validate()
+{
+	return true;
+}
+
 void AMCharacter::OnHealthChanged(UMHealthComponent* HealthComponent, float Heath, float HealthDelta, const class UDamageType* DamageType,
 	class AController* InstigatedBy, AActor* DamageCauser)
 {
@@ -114,12 +152,16 @@ void AMCharacter::OnHealthChanged(UMHealthComponent* HealthComponent, float Heat
 		// Die£¡
 
 		bDied = true;
+		if (CurrentWeapon)
+		{
+			CurrentWeapon->Destroy();
+		}
 		GetMovementComponent()->StopMovementImmediately();
 		GetCapsuleComponent()->SetCollisionEnabled(ECollisionEnabled::NoCollision);
 
-		DetachFromControllerPendingDestroy();
+		//DetachFromControllerPendingDestroy();
 
-		SetLifeSpan(10.0f);
+		SetLifeSpan(2.0f);
 	}
 }
 
@@ -155,6 +197,8 @@ void AMCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponen
 
 	PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &AMCharacter::StartFire);
 	PlayerInputComponent->BindAction("Fire", IE_Released, this, &AMCharacter::StopFire);
+
+	PlayerInputComponent->BindAction("Grenade", IE_Pressed, this, &AMCharacter::ThrowGrenade);
 }
 
 FVector AMCharacter::GetPawnViewLocation() const

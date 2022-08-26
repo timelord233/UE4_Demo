@@ -10,6 +10,7 @@ class UCameraComponent;
 class USpringArmComponent;
 class AMWeapon;
 class UMHealthComponent;
+class AMGrenade;
 
 UCLASS()
 class DEMO_API AMCharacter : public ACharacter
@@ -51,11 +52,13 @@ protected:
 
 	float DefaultFOV;
 
+	UFUNCTION(BlueprintCallable, Category = "Player")
 	void BeginZoom();
 
+	UFUNCTION(BlueprintCallable, Category = "Player")
 	void EndZoom();
 
-	UPROPERTY(Replicated)
+	UPROPERTY(Replicated, BlueprintReadOnly, Category = "Player")
 	AMWeapon* CurrentWeapon;
 
 	UPROPERTY(EditDefaultsOnly, Category = "Player")
@@ -69,6 +72,15 @@ protected:
 
 	UPROPERTY(Replicated, BlueprintReadOnly, Category = "Player")
 	bool bDied;
+
+	UPROPERTY(Replicated)
+	AMGrenade* CurrentGrenade;
+
+	UPROPERTY(EditDefaultsOnly, Category = "Player")
+	TSubclassOf<AMGrenade> StarterGrenadeClass;
+
+	UPROPERTY(EditDefaultsOnly, Category = "Player")
+	FVector GrenadeOffset;
 
 public:
 	// Called every frame
@@ -84,4 +96,10 @@ public:
 
     UFUNCTION(BlueprintCallable,Category = "Player")
     void StopFire();
+
+	UFUNCTION(BlueprintCallable, Category = "Player")
+	void ThrowGrenade();
+
+	UFUNCTION(Server, Reliable, WithValidation)
+	void ServerThrowGrenade();
 };
