@@ -141,6 +141,9 @@ void ATouchScreenHud::LoopTouchButtons()
 
 void ATouchScreenHud::DrawTouchButton(UTouchButton* TouchButton)
 {
+	if (TouchButton == nullptr) {
+		return;
+	}
 	const TArray<FTouchButtonData>& TouchButtonDatas = TouchButton->GetButtonsData();
 	if (TouchButtonDatas.Num()>0)
 	{
